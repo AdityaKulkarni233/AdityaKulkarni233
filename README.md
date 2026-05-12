@@ -13,7 +13,7 @@
 ```
 ---
 
-### Data scientist · AI/ML engineer · Developer . Researcher
+### Data scientist | AI/ML engineer | Developer | Researcher | 
 
 <br>
 
@@ -28,7 +28,7 @@
 
 ---
 
-## What I Work On
+### What I Work On
 
 * I focus on building intelligent systems in **AI/ML**, including retrieval‑augmented generation pipelines, fine‑tuning large language models, NLP preprocessing, vector databases like Pinecone, and agentic systems with LangChain.  
 * In the **data science** space, I work on EDA, machine learning models , and big‑data processing with PySpark and Databricks.  
@@ -66,10 +66,6 @@
 ---
 
 ![Snake animation](https://github.com/AdityaKulkarni233/AdityaKulkarni233/blob/output/github-contribution-grid-snake-dark.svg)
-
----
-
-### My Top Open Souce Projects
 
 ---
 
